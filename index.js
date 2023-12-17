@@ -11,9 +11,9 @@ if ( escolhaDoTreinador === 1) {
     pokemonEscolhido = "Bulbasaur";
 } else if ( escolhaDoTreinador === 2) {
     pokemonEscolhido = "Charmander";
-} else if ( escolhaDoTreinador === 3) {
+} else if ( escolhaDoTreinador === 4) {
     pokemonEscolhido = "Pikachu";
-} else{
+} else if( escolhaDoTreinador === 5){
     pokemonEscolhido = "Mewtwo";
 }
 
